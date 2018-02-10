@@ -1,0 +1,10 @@
+1) chess
++ add piece move checker
++ add pieces movement
++ add options for pawn promotion
++ add draw after 50 moves
+2) server
+- add board, add communication with it
+- add pawn promotion
+3) client
+- code it

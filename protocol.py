@@ -1,0 +1,6 @@
+GET_COLOR = 'color?'
+RECONNECT = 're'
+GET_POSITION = 'pos?'
+MOVE = 'move'
+ECHO = 'echo'
+QUERIES = [GET_COLOR, RECONNECT, GET_POSITION, MOVE, ECHO]
